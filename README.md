@@ -10,3 +10,4 @@
 * binary_search.py - алгоритм бинарного поиска.
 * selection_sorting.py - алгоритм сортировки выбором.
 * recursion.py - алгоритм рекурсии.
+* quick_sorting.py - алгоритм быстрой сортировки.
