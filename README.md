@@ -11,3 +11,5 @@
 * selection_sorting.py - алгоритм сортировки выбором.
 * recursion.py - алгоритм рекурсии.
 * quick_sorting.py - алгоритм быстрой сортировки.
+* hash_tables.py - хеш-таблицы.
+* breadth_search.py - алгоритм поиска в ширину.
