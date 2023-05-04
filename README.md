@@ -13,3 +13,4 @@
 * quick_sorting.py - алгоритм быстрой сортировки.
 * hash_tables.py - хеш-таблицы.
 * breadth_search.py - алгоритм поиска в ширину.
+* dijkstra_algorithm.py - алгоритм Дейкстры.
