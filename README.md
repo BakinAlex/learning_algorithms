@@ -15,3 +15,4 @@
 * breadth_search.py - алгоритм поиска в ширину.
 * dijkstra_algorithm.py - алгоритм Дейкстры.
 * greedy_algorithms.py - жадные алгоритмы.
+* dynamic_programming.py - динамичексое программирование.
